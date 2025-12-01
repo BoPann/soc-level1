@@ -4,10 +4,10 @@
 
 ## Idedity and Asset
 - ### Identity Inventory
-- A catalogue of corporate employees (user accounts), services (machine accounts), and their details like privileges, contacts, and roles within the company.
+	- A catalogue of corporate employees (user accounts), services (machine accounts), and their details like privileges, contacts, and roles within the company.
 
 - ### Asset Inventory
-- a list of all computing resources within an organisation's IT environment.
+	- a list of all computing resources within an organisation's IT environment.
 
 ## Network diagram 
 Gives you an idea of the flow of traffic and help determine the meaning of an event
