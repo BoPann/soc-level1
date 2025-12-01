@@ -1,4 +1,5 @@
-![[soc-level1/imgs/ryan.png]]
+
+![ryan](soc-level1/imgs/ryan.png)
 >It is essential to document what you see in the SIEM and determine if it needs to be escalated. 
 
 ### 5W 
