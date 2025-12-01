@@ -1,11 +1,3 @@
----
-creation date: 2025-11-30 18:58
-modified: 2025-11-30 22:36
-tags:
-  - cyber
-urgency:
----
-
 
 ![ryan](imgs/ryan.png)
 >It is essential to document what you see in the SIEM and determine if it needs to be escalated. 
