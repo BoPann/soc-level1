@@ -1,4 +1,4 @@
-![dwight-sheriff](imgs/dwight-sheriff.png = 250x250)
+![dwight-sheriff](imgs/dwight-sheriff.png)
 
 >This lesson we learn about how to use resource available to us to analyze SIEM event! Like a sheriff (sort of)
 
